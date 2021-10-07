@@ -14,7 +14,7 @@ h1 {
 
 h2 {
   color:yellow;
-  font-size: 300%;
+  font-size: 100%;
   font-family: "Times new Roman",serif;
   text-decoration: underline;
 
@@ -46,8 +46,8 @@ img#promote {
 #content {
 
   background-color: gray;
-  width: 3740px;
-  height: 1700px;
+  width: 100px;
+  height: 200px;
   min-height: 400px;
   padding: 20px;
   margin: 20px;
