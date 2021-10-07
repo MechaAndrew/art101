@@ -28,9 +28,8 @@ h2 {
 p {
   color: black;
   font-family: "Times New Roman",sans-serif;
-  font-size: "7px";
-  text-indent: "36px";
-  margin-left: "1px";
+  font-size: 40px;
+
 
 }
 
@@ -52,7 +51,6 @@ img#promote {
   padding: 20px;
   margin: 20px;
   border: solid 5px black;
-  font-size: 60px;
 
 
 }
