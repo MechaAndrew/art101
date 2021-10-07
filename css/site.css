@@ -42,8 +42,8 @@ img#promote {
 }
 
 
-.button {
-  background-color: Black; /* Green */
+/*.button {
+  background-color: Black; /* Green 
  border: none;
  color: White;
  padding: 5px 10px;
@@ -53,7 +53,7 @@ img#promote {
  font-size: 100px;
  width: 200px;
 }
-
+*/
 #content {
 
   background-color: gray;
