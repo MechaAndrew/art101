@@ -50,7 +50,8 @@ img#promote {
  text-align: center;
  text-decoration: none;
  display: inline-block;
- font-size: 16px;
+ font-size: 100px;
+ width: 300px;
 }
 
 #content {
