@@ -6,7 +6,7 @@ h1 {
   outline-color: black;
   outline-width: thick;
   font-family: fantasy;
-  font-size: 200%;
+  font-size: 80%;
 
 
 
@@ -14,10 +14,10 @@ h1 {
 
 h2 {
   color:yellow;
-  font-size: 300%;
+  font-size: 50%;
   font-family: "Times new Roman",serif;
   text-decoration: underline;
- /* TEMP:  */
+
 
 }
 
@@ -39,7 +39,7 @@ p#ending {
 }
 
 img#promote {
- width: 900px;
+ width: 300px;
 }
 
 
@@ -47,7 +47,7 @@ img#promote {
 
   background-color: gray;
   width: 1000px;
-  height: 1000px;
+  height: 500px;
   min-height: 400px;
   padding: 20px;
   margin: 20px;
