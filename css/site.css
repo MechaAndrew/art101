@@ -43,10 +43,10 @@ img#promote {
 
 
 .button {
-  background-color: Green; /* Green */
+  background-color: green; /* Green */
  border: none;
  color: white;
- padding: 15px 32px;
+ padding: 100px 100px;
  text-align: center;
  text-decoration: none;
  display: inline-block;
