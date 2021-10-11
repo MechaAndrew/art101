@@ -36,10 +36,9 @@ h2 {
   font-size: 20px;
   margin: 4px 2px;
   cursor: pointer;
-  width: 70px;
-  height: 30px;
+  /*width: 70px;
+  height: 30px;*/
   border: 1px solid black;
-  display: block;
   border-radius: 9px;
 }
 
