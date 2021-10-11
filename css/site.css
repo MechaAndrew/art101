@@ -44,6 +44,10 @@ p {
 
 }
 
+p#intro {
+  font-family: "Bree Serif",sans-serif;
+}
+
 p#ending {
   color: pink;
 }
