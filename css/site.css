@@ -25,6 +25,17 @@ h2 {
   text-align: center;
 }
 
+.button {
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+
 p {
   color: black;
   font-family: "Times New Roman",sans-serif;
@@ -42,18 +53,7 @@ img#promote {
 }
 
 
-/*.button {
-  background-color: Black; /* Green 
- border: none;
- color: White;
- padding: 5px 10px;
- text-align: center;
- text-decoration: none;
- display: inline-block;
- font-size: 100px;
- width: 200px;
-}
-*/
+
 #content {
 
   background-color: gray;
