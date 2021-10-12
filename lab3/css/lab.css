@@ -12,7 +12,7 @@ h1 {
 
 }
 
-h2 {
+h2, h3, h4, h5 {
   color:yellow;
   font-size: 50%;
   font-family: "Times new Roman",serif;
@@ -21,23 +21,7 @@ h2 {
 
 }
 
-h3 {
-  color:yellow;
-  font-size: 50%;
-  font-family: "Times new Roman",serif;
-  text-decoration: underline;
-  font-size: 150%;
 
-}
-
-h4 {
-  color:yellow;
-  font-size: 50%;
-  font-family: "Times new Roman",serif;
-  text-decoration: underline;
-  font-size: 150%;
-
-}
 
 .center {
   text-align: center;
@@ -54,6 +38,12 @@ p {
 p#ending {
   color: pink;
 }
+
+a#desc {
+  color: white;
+  font-style: italic;
+}
+
 
 img#promote {
  width: 300px;
