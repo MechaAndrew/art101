@@ -57,7 +57,7 @@ p#intro {
 }
 
 p#ending {
-  color: pink;
+  color: #fa37e3;
 }
 
 img#promote {
@@ -68,13 +68,16 @@ img#promote {
 
 #content {
 
-  background-color: gray;
+  background-color: #cdcdcd;
   width: 1500px;
   height: 1450px;
   min-height: 400px;
   padding: 20px;
   margin: 20px;
-  border: solid 5px black;
+  border: solid 2px black;
+}
+  #background {
+    background-color: #fffad1;
 
 
 }
