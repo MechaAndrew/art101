@@ -5,7 +5,7 @@ h1 {
   outline-style: double;
   outline-color: black;
   outline-width: thick;
-  font-family: fantasy;
+  font-family: "Impact";
   font-size: 400%;
 
 
@@ -83,6 +83,9 @@ img#portrait {
   #background {
     background-color: #fffad1;
     background-size: cover;
+    -webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
 
 
 }
