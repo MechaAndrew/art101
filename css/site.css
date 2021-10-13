@@ -72,27 +72,20 @@ img#portrait {
 
 #content {
 
+
+  width: 1420px;
   background-color: #cdcdcd;
-  width: 1500px;
   height: 1450px;
   min-height: 400px;
   padding: 20px;
   margin: 20px;
   border: solid 2px black;
 }
-  #background {
-    background-color: #fffad1;
-    background-size: cover;
-    -webkit-background-size: cover;
--moz-background-size: cover;
--o-background-size: cover;
 
-
-}
-img#backgroundimg {
-  position: absolute;
-      top: 0;
-      left: 0;
-      z-index: 70;
-      overflow: auto;
+#background {
+  background-image: image("/img/Dayset background");
+  background-size: cover;
+  background-color: tan;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
