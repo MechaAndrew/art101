@@ -82,6 +82,7 @@ img#portrait {
 }
   #background {
     background-color: #fffad1;
+    background-size: cover;
 
 
 }
