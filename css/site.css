@@ -90,8 +90,9 @@ img#portrait {
 
 }
 img#backgroundimg {
-  background-color: #fffad1;
-  background-size: cover;
-  -webkit-background-size: cover;
--moz-background-size: cover;
--o-background-size: cover;
+  position: absolute;
+      top: 0;
+      left: 0;
+      z-index: 70;
+      overflow: auto;
+}
