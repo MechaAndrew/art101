@@ -1,0 +1,75 @@
+
+
+h1 {
+  color:blue;
+  outline-style: double;
+  outline-color: black;
+  outline-width: thick;
+  font-family: fantasy;
+  font-size: 200%;
+
+
+
+}
+
+h2, h3, h4, h5 {
+  color:yellow;
+  font-size: 50%;
+  font-family: "Times new Roman",serif;
+  text-decoration: underline;
+  font-size: 150%;
+
+}
+
+
+
+.center {
+  text-align: center;
+}
+
+p {
+  color: black;
+  font-family: "Times New Roman",sans-serif;
+  font-size: 24px;
+
+
+}
+
+p#ending {
+  color: pink;
+}
+
+a#desc {
+  color: white;
+  font-style: italic;
+}
+
+
+img#promote {
+ width: 300px;
+}
+
+img#img1 {
+ width: 200px;
+}
+
+img#img3 {
+ width: 400px;
+}
+
+#background {
+    background-color: pink;
+}
+
+#content {
+
+  background-color: gray;
+  width: 1000px;
+  height: 2000px;
+  min-height: 400px;
+  padding: 20px;
+  margin: 20px;
+  border: solid 5px black;
+
+
+}
