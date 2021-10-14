@@ -63,9 +63,12 @@ p#ending {
 }
 
 img#promote {
-  position:  fixed;
+  position: relative;
+  float: left;
  width: 300px;
 }
+
+
 
 img#portrait {
   border: 5px solid black;
