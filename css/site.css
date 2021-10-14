@@ -7,19 +7,21 @@ h1 {
   outline-width: thick;
   font-family: "Impact";
   font-size: 400%;
+ text-align: center;
 
 
 
 }
 
 h2 {
-  color:yellow;
-  font-size: 50%;
-  font-family: "Times new Roman",serif;
-  text-decoration: underline;
-  font-size: 200%;
 
+  color:black;
+position: relative;
+  font-family: "Impact", fantasy;
+  font-size: 40px;
+  align-items: center;
 }
+
 
 .center {
   text-align: center;
@@ -61,6 +63,7 @@ p#ending {
 }
 
 img#promote {
+  position:  fixed;
  width: 300px;
 }
 
@@ -70,9 +73,15 @@ img#portrait {
   position: relative;
 }
 
+#lab {
+  width: 200px;
+  height: auto;
+  background-color: #cdcdcd;
+
+  border: solid 2px black;
+}
+
 #content {
-
-
   width: 1420px;
   background-color: #cdcdcd;
   height: 1450px;
@@ -83,7 +92,7 @@ img#portrait {
 }
 
 #background {
-  background-image: image("/img/Dayset background");
+  /*background-image: url(https://static.wikia.nocookie.net/dragonball/images/5/50/Wiki-background/revision/latest);*/
   background-size: cover;
   background-color: tan;
   background-repeat: no-repeat;

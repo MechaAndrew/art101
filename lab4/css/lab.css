@@ -5,14 +5,15 @@ h1 {
   outline-style: double;
   outline-color: black;
   outline-width: thick;
-  font-family: fantasy;
-  font-size: 200%;
+  font-family: "Impact";
+  font-size: 250%;
+ text-align: center;
 
 
 
 }
 
-h2, h3, h4, h5 {
+h2{
   color:yellow;
   font-size: 50%;
   font-family: "Times new Roman",serif;
@@ -20,11 +21,18 @@ h2, h3, h4, h5 {
   font-size: 150%;
 
 }
+h3{
+  color:orange;
+  font-size: 20px;
+  font-family: "Times new Roman",serif;
+  text-decoration: underline;
 
 
+}
 
-.center {
-  text-align: center;
+
+#order {
+  text-align: left;
 }
 
 p {
@@ -35,30 +43,10 @@ p {
 
 }
 
-p#ending {
-  color: pink;
-}
 
-a#desc {
-  color: white;
-  font-style: italic;
-}
-
-
-img#promote {
- width: 300px;
-}
-
-img#img1 {
- width: 200px;
-}
-
-img#img3 {
- width: 400px;
-}
 
 #background {
-    background-color: pink;
+    background-color: tan;
 }
 
 #content {
