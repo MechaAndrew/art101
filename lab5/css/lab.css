@@ -1,0 +1,63 @@
+
+
+h1 {
+  color:blue;
+  outline-style: double;
+  outline-color: black;
+  outline-width: thick;
+  font-family: "Impact";
+  font-size: 250%;
+ text-align: center;
+
+
+
+}
+
+h2{
+  color:yellow;
+  font-size: 50%;
+  font-family: "Times new Roman",serif;
+  text-decoration: underline;
+  font-size: 150%;
+
+}
+h3{
+  color:orange;
+  font-size: 20px;
+  font-family: "Times new Roman",serif;
+  text-decoration: underline;
+
+
+}
+
+
+#order {
+  text-align: left;
+}
+
+p {
+  color: black;
+  font-family: "Times New Roman",sans-serif;
+  font-size: 24px;
+
+
+}
+
+
+#content {
+  width: 1420px;
+  background-color: #cdcdcd;
+  height: 1450px;
+  min-height: 400px;
+  padding: 20px;
+  margin: 20px;
+  border: solid 2px black;
+}
+
+#background {
+  /*background-image: url(https://static.wikia.nocookie.net/dragonball/images/5/50/Wiki-background/revision/latest);*/
+  background-size: cover;
+  background-color: tan;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
