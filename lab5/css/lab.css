@@ -14,20 +14,17 @@ h1 {
 }
 
 h2{
-  color:yellow;
+  color:black;
   font-size: 50%;
   font-family: "Times new Roman",serif;
   text-decoration: underline;
   font-size: 150%;
 
 }
-h3{
-  color:orange;
-  font-size: 20px;
-  font-family: "Times new Roman",serif;
-  text-decoration: underline;
 
 
+.center {
+  text-align: center;
 }
 
 
@@ -57,7 +54,7 @@ p {
 #background {
   /*background-image: url(https://static.wikia.nocookie.net/dragonball/images/5/50/Wiki-background/revision/latest);*/
   background-size: cover;
-  background-color: tan;
+  background-color: #737373;
   background-repeat: no-repeat;
   background-size: cover;
 }

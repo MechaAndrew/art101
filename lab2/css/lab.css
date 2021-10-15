@@ -41,16 +41,38 @@ img#promote {
  width: 300px;
 }
 
+.center {
+  text-align: center;
+}
+
+
+#order {
+  text-align: left;
+}
+
+p {
+  color: black;
+  font-family: "Times New Roman",sans-serif;
+  font-size: 24px;
+
+
+}
+
 
 #content {
-
-  background-color: gray;
-  width: 1000px;
-  height: 2000px;
+  width: 1420px;
+  background-color: #cdcdcd;
+  height: 1450px;
   min-height: 400px;
   padding: 20px;
   margin: 20px;
-  border: solid 5px black;
+  border: solid 2px black;
+}
 
-
+#background {
+  /*background-image: url(https://static.wikia.nocookie.net/dragonball/images/5/50/Wiki-background/revision/latest);*/
+  background-size: cover;
+  background-color: #737373;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
