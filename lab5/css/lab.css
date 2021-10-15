@@ -16,10 +16,16 @@ h1 {
 h2{
   color:black;
   font-size: 50%;
-  font-family: "Times new Roman",serif;
+  font-family: "Times new Roman",fantasy;
   text-decoration: underline;
   font-size: 150%;
 
+}
+script {
+  color:black;
+  font-size: 50%;
+  font-family: "Times new Roman",serif;
+  font-size: 24px;
 }
 
 
@@ -27,9 +33,11 @@ h2{
   text-align: center;
 }
 
-
-#order {
-  text-align: left;
+.output {
+  color:black;
+  font-size: 50%;
+  font-family: "Times new Roman",serif;
+  font-size: 24px;
 }
 
 p {
