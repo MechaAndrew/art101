@@ -64,6 +64,4 @@ return copyName;
 //sortName();
 //output
 document.writeln("Name Sorted: ", sortName(), "<br>");
-document.writeln("Anagram: ", anagram(), "<br>");
-
-//document.writeln("Name Sorted: ");
+document.writeln("Re-Written: ", anagram(), "<br>");
