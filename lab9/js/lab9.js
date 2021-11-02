@@ -7,8 +7,7 @@
 * @since 11.1.21
 */
 
-var outputEl;
-outputEl = document.getElementById("output");
+var outputEl = document.getElementById("output");
 
 var new1El = document.createElement("p");
 new1El.innerHTML = "<p>Something New</p>";
