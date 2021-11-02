@@ -17,4 +17,4 @@ var new2El = document.createElement("p");
 new2El.innerHTML = "<p>Something New the sequelling</p>";
 
 outputEl.appendChild(new1El);
-//outputEl.appendChild(new2El);
+outputEl.appendChild(new2El);
