@@ -60,18 +60,21 @@ p {
 
 #content {
   width: 1420px;
-  background-color: #cdcdcd;
+  background-color: #f1f3ff;
   height: 1450px;
   min-height: 400px;
   padding: 20px;
   margin: 20px;
   border: solid 2px black;
+    border-radius: 9px;
+  /*opacity: 80%; */
 }
+
 
 #background {
   /*background-image: url(https://static.wikia.nocookie.net/dragonball/images/5/50/Wiki-background/revision/latest);*/
   background-size: cover;
-  background-color: #737373;
+  background-color: #7090ff;
   background-repeat: no-repeat;
   background-size: cover;
 }
