@@ -1,0 +1,112 @@
+
+
+h1 {
+  color:blue;
+  outline-style: double;
+  outline-color: black;
+  outline-width: thick;
+  font-family: "Impact";
+  font-size: 250%;
+ text-align: center;
+
+
+
+}
+
+h2{
+  color:black;
+  font-size: 50%;
+  font-family: "Times new Roman",fantasy;
+  text-decoration: underline;
+  font-size: 150%;
+
+}
+script {
+  color:black;
+  font-size: 50%;
+  font-family: "Times new Roman",serif;
+  font-size: 24px;
+}
+
+
+.section {
+  border: solid 1px black;
+  border-radius: 10px;
+  padding: 10px;
+  margin: 10px;
+}
+
+div#numOutput {
+  border: 3px solid #73AD00;
+  height: 500px;
+  width: 100%;
+  display: inline-block;
+  overflow: hidden;
+  overflow: scroll;
+}
+
+#numOutput {
+  color:black;
+  font-family: "Trebuchet MS",monospace;
+  font-size: 20px;
+  color: red;
+  position: relative;
+}
+
+#the-button {
+
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  /*padding: 15px 32px;*/
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+  margin: 4px 2px;
+  cursor: pointer;
+  /*width: 70px;
+  height: 30px;*/
+  border: 1px solid black;
+  /*display: block;*/
+  border-radius: 9px;
+}
+
+p {
+  color: black;
+  font-family: "Times New Roman",sans-serif;
+  font-size: 24px;
+}
+
+.promote {
+  position: relative;
+  left: auto;
+  width: 300px;
+
+}
+
+#side {
+  text-align: left;
+}
+
+
+#content {
+  width: 1420px;
+  background-color: #f1f3ff;
+  height: 1450px;
+  min-height: 400px;
+  padding: 20px;
+  margin: 20px;
+  border: solid 2px black;
+    border-radius: 9px;
+  /*opacity: 80%; */
+}
+
+
+#background {
+  /*background-image: url(https://static.wikia.nocookie.net/dragonball/images/5/50/Wiki-background/revision/latest);*/
+  background-size: cover;
+  background-color: #7090ff;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
