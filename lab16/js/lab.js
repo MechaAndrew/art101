@@ -8,9 +8,13 @@
 */
 
 
+//get the endpoint for the comic
+//generates a random starting point for the website
+var number = Math.floor(Math.random() * 2547) + 1;
 
-
-var myURL = "https://api.kanye.rest";
+var myURL = "https://xkcd.com/" + number + "/info.0.json";
+//myURL = "https://xkcd.com/1/info.0.json"
+console.log(myURL);
 $("#activate").click(callAjax);
 
 function callAjax() {
